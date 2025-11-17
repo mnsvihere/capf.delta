@@ -2,7 +2,7 @@ const courses = [
     {
         number: 1,
         title: "sample",
-        category: "",
+        category: "bio",
         videoUrl: ""
     },
    
