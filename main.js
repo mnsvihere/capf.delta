@@ -1,9 +1,15 @@
 const courses = [
     {
         number: 1,
-        title: "sample",
-        category: "bio",
-        videoUrl: ""
+        title: "Climatology 1",
+        category: "phygeo",
+        videoUrl: "https://us06web.zoom.us/rec/share/D3wZ-OD1mT48uy4n8gXYT8TitM4pXwIbcIrtOWwOgR0BAJfze1JuI5qriKhT88Uo.IP1Qtx8umLfCzmZh?startTime=1763470925000"
+    },
+     {
+        number: 2,
+        title: "Climatology 2",
+        category: "phygeo",
+        videoUrl: "https://us06web.zoom.us/rec/share/D3wZ-OD1mT48uy4n8gXYT8TitM4pXwIbcIrtOWwOgR0BAJfze1JuI5qriKhT88Uo.IP1Qtx8umLfCzmZh?startTime=1763475854000"
     },
    
 ];
