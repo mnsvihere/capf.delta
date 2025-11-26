@@ -54,12 +54,18 @@ const courses = [
         videoUrl: "https://us06web.zoom.us/rec/share/pUhB2f3cmK08r-atssm1v_CPjeDsnRJmHiIaTCVZgmB4W18HAubtGTAWKh6HIYMX.ABSAdO_MXNryRq3s?startTime=1764075537000"
     },
     {
+        number: 10,
+        title: "Physical Weathering + Mass movements + PYQs",
+        category: "phygeo",
+        videoUrl: "https://us06web.zoom.us/rec/share/pUhB2f3cmK08r-atssm1v_CPjeDsnRJmHiIaTCVZgmB4W18HAubtGTAWKh6HIYMX.ABSAdO_MXNryRq3s?startTime=1764080038000"
+     },
+    {
         number : 1,
         title : "Paper 2 Orientation class",
         category : "batchs",
         videoUrl: "https://us06web.zoom.us/rec/share/AVH9a71Z6qrandHE5Q5_2vwRO4Wg3mOF6KVi3YjneD_CD3LjlYfKKS7MnC7-Cxb1.BPn11OQ-MTuolNjC?startTime=1764127202000"
     }
- ];
+ ];  10.     
 
 let currentCategory = 'all';
 
