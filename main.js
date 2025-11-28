@@ -64,8 +64,20 @@ const courses = [
         title : "Paper 2 Orientation class",
         category : "batchs",
         videoUrl: "https://us06web.zoom.us/rec/share/AVH9a71Z6qrandHE5Q5_2vwRO4Wg3mOF6KVi3YjneD_CD3LjlYfKKS7MnC7-Cxb1.BPn11OQ-MTuolNjC?startTime=1764127202000"
-    }
- ];  10.     
+    },
+    {
+        number: 11,
+        title: "Earthquake",
+        category: "phygeo",
+        videoUrl: "https://us06web.zoom.us/rec/share/PpfKS2YET8Q_Wm0aCnW7dnvHS7FkH0lQrkI7u6uPv_Qxx3Ypp8IN_hLqr-e4vf1R.mDNmzLP_7tmb_l5S?startTime=1764248384000"
+    },
+    {
+        number: 12,
+        title: "Volcano",
+        category: "phygeo",
+        videoUrl: "https://us06web.zoom.us/rec/share/PpfKS2YET8Q_Wm0aCnW7dnvHS7FkH0lQrkI7u6uPv_Qxx3Ypp8IN_hLqr-e4vf1R.mDNmzLP_7tmb_l5S?startTime=1764253304000"
+     },
+ ];      
 
 let currentCategory = 'all';
 
