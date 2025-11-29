@@ -78,7 +78,7 @@ const courses = [
         videoUrl: "https://us06web.zoom.us/rec/share/PpfKS2YET8Q_Wm0aCnW7dnvHS7FkH0lQrkI7u6uPv_Qxx3Ypp8IN_hLqr-e4vf1R.mDNmzLP_7tmb_l5S?startTime=1764253304000"
      },
     {
-        number: 12,
+        number: 1,
         title: "Basics of argument writing",
         category: "Answer writing",
         videoUrl: "https://us06web.zoom.us/rec/share/NeWCPTiyonPhxyoF9AEedts-FBSQ61LBFG5ICxbjD_GUMHvrT5S4_wyQ0B9PB_8S.leawoMWQK44EMhnn" 
