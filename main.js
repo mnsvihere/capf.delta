@@ -83,6 +83,12 @@ const courses = [
         category: "Answer writing",
         videoUrl: "https://us06web.zoom.us/rec/share/NeWCPTiyonPhxyoF9AEedts-FBSQ61LBFG5ICxbjD_GUMHvrT5S4_wyQ0B9PB_8S.leawoMWQK44EMhnn" 
     },
+    { 
+        number: 1,
+        title: "MGNREGA",
+        category: "One pager",
+        videoUrl: "https://us06web.zoom.us/rec/share/TR-KU7aM4xyxJG7MCEFPnQ9IIhYSmYicmJqQk2WQUGwoL0p-VIQhEsVtCDJ1cg0L.7B8dG0BXkv_JWlb_?startTime=1764334815000"
+    },
  ]; 
 
 let currentCategory = 'all';
