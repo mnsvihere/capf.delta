@@ -86,7 +86,7 @@ const courses = [
     { 
         number: 1,
         title: "MGNREGA",
-        category: "One pager",
+        category: "One Pager",
         videoUrl: "https://us06web.zoom.us/rec/share/TR-KU7aM4xyxJG7MCEFPnQ9IIhYSmYicmJqQk2WQUGwoL0p-VIQhEsVtCDJ1cg0L.7B8dG0BXkv_JWlb_?startTime=1764334815000"
     },
  ]; 
